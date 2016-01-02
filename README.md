@@ -13,6 +13,6 @@ Tasks to choose from:
 1. Run cmd commands
 1. Send email(has some safety issues with gmail)
 
-In the future I might add tasks to choose from, but because this is just a dashboard you can make your own tasks with oopening your own programs.
+In the future I might add tasks to choose from, but because this is just a dashboard you can make your own tasks with opening your own programs.
 
 William Wernsen
